@@ -21,7 +21,7 @@ Run HAR.py scripts and apply the settings required to define the dataset and hyp
   
 ###### <h3> Other related works
 Vriants of **3DHARSOM** architecture are designed and implemented to address different research problems. These studies are presented in several scientific papers (and demos) mentioned in the following:   
-* Application of **3DHARSOM** architecture without using orders of dynamic by [article](https://www.scitepress.org/Papers/2017/61993/61993.pdf): 
+* Application of **3DHARSOM** architecture without using orders of dynamic, [article](https://www.scitepress.org/Papers/2017/61993/61993.pdf): 
   
   
       @inproceedings {gharaee2017icaart} {
@@ -37,7 +37,7 @@ Vriants of **3DHARSOM** architecture are designed and implemented to address dif
   
    
   
-* Application of **3DHARSOM** architecture with manual segmentation while actor performs actions of MSRAction3D dataset infront of a Kinect sensor by [article](https://ieeexplore.ieee.org/abstract/document/7907518):
+* Application of **3DHARSOM** architecture with manual segmentation while actor performs actions of MSRAction3D dataset infront of a Kinect sensor, [article](https://ieeexplore.ieee.org/abstract/document/7907518):
   
   
       @inproceedings {gharaee2016sitis} {
@@ -55,7 +55,7 @@ Vriants of **3DHARSOM** architecture are designed and implemented to address dif
 https://user-images.githubusercontent.com/8222285/124340307-81033780-dbb4-11eb-8da5-70b6339614f2.mov
   
 
-* Application of **3DHARSOM** architecture for action recognition and object detection by running experiments using a Kinect sensor and actions involve objects by [article](https://doi.org/10.1016/j.bica.2017.09.007)/[arxiv link](https://arxiv.org/abs/2104.06070):
+* Application of **3DHARSOM** architecture for action recognition and object detection by running experiments using a Kinect sensor and actions involve objects, [article](https://doi.org/10.1016/j.bica.2017.09.007)/[arxiv link](https://arxiv.org/abs/2104.06070):
   
       @article {gharaee2017bica} {
           author = {Zahra Gharaee and Peter G{\"{a}}rdenfors and Magnus Johnsson},
