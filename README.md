@@ -70,4 +70,15 @@ https://user-images.githubusercontent.com/8222285/124340307-81033780-dbb4-11eb-8
   
 https://user-images.githubusercontent.com/8222285/124340409-582f7200-dbb5-11eb-9644-33b781bb52aa.mov
 
-
+* Application of **3DHARSOM** architecture for online recognition of unsegmented actions of MSRAction3D dataset, [article](https://doi.org/10.1007/s10339-020-00986-4)/[arxiv link](https://arxiv.org/abs/2104.11637):
+  
+      @article {gharaee2017cogproc} {
+          author = {Zahra Gharaee},
+            title = {Online recognition of unsegmented actions with hierarchical SOM architecture},
+            booktitle = {Cognitive Processing},
+            year = {2021}
+            page = {77--91}
+            volume = {22}
+            DOI = {10.1007/s10339-020-00986-4}
+          }
+        }
